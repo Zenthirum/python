@@ -1,0 +1,3 @@
+import numpy as np
+figsize (5,5)
+imshow(np.random.rand(10,10), interpolation="nearest")
